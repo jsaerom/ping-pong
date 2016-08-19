@@ -120,3 +120,8 @@ input{
   margin-top: 2px;
   margin-left: 5%;
 }
+@media (min-width: 2500px){
+  .container{
+    width: 100px;
+  }
+}
