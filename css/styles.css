@@ -122,6 +122,6 @@ input{
 }
 @media (min-width: 2500px){
   .container{
-    width: 600px;
+    width: 100px;
   }
 }
